@@ -1,0 +1,45 @@
+#element1 {
+    color: green
+}
+
+#element2 {
+    color: blue
+}
+
+#CSS {
+    color: orange
+}
+#is {
+    color: darkred
+}
+#wonderful {
+    color: royalblue
+}
+
+#theFirstParagraph {
+    background-color: #92a8d1;
+}
+
+#theSecondParagraph {
+    background-color: rgba(201, 76, 76, 0.3);
+}
+
+#theThirdParagraph {
+    background-color: hsl(89, 43%, 51%);
+}
+
+.container {
+    background-color: blueviolet;
+    width: 200px
+}
+
+#first {
+    width: 50%;
+    background-color: fuchsia
+}
+
+#second {
+    width: 10em;
+    background-color: darkorange
+}
+
